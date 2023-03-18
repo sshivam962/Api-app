@@ -47,4 +47,5 @@ group :development do
 end
 gem 'simple_command'
 gem 'pg'
+gem 'dotenv-rails'
 
